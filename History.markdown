@@ -20,16 +20,19 @@
   * docs: Update contributor badge in README to include avatar height and limit parameters (#9912)
   * Update WDM (0.1.1 → 0.2.0) in the Windows docs (#9897)
   * Bump supported versions (#9923)
+  * Add GitCMS to resources docs (#9960)
 
 ### Development Fixes
 
   * Improve readability of `post_url` tag (#9829)
   * Fix flaky test that depends on current minute (#9889)
+  * build: fix broken CI on newer rubies (#9954)
 
 ### Minor Enhancements
 
   * feat: Allowing post_url tag to receive liquid variables (#9776)
   * Add .ruby-lsp to default excludes (#9914)
+  * Allow configuring future metadata for individual collections (#9925)
 
 ## 4.4.1 / 2025-01-29
 
